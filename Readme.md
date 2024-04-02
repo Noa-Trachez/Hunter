@@ -11,10 +11,10 @@ Il est inspiré du Duck Hunt sorti sur NES en 1987.
 ![](https://github.com/Noa-Trachez/Hunter/blob/main/images/DuckHunt.gif)
 
 <div style="display: flex; flex-wrap: wrap">
-    <img src="/images/Ammo.png" width=300 height=360 />
-    <img src="/images/Game.png" width=300 height=360 />
-    <img src="/images/Kill.png" width=300 height=360 />
-    <img src="/images/Round.png" width=300 height=360 />
+    <img src="/images/Ammo.png" width=360 height=300 />
+    <img src="/images/Game.png" width=360 height=300 />
+    <img src="/images/Kill.png" width=360 height=300 />
+    <img src="/images/Round.png" width=360 height=300 />
 </div>
 
 Dans ce jeu, la gestion des balles, des rounds, de la vitesse au cours du jeu et du score sont entièrement fonctionnelles
